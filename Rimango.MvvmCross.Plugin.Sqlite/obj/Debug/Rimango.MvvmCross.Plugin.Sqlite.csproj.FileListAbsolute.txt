@@ -1,0 +1,17 @@
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Rimango.MvvmCross.Plugin.Sqlite.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Rimango.MvvmCross.Plugin.Sqlite.pdb
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Cirrious.CrossCore.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\SQLite.Net.Async.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\SQLite.Net.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\obj\Debug\Rimango.MvvmCross.Plugin.Sqlite.dll
+D:\SchooganizerX\Schooganizer\Rimango.MvvmCross.Plugin.Sqlite\obj\Debug\Rimango.MvvmCross.Plugin.Sqlite.pdb
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\obj\Debug\Rimango.MvvmCross.Plugin.Sqlite.csprojResolveAssemblyReference.cache
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\obj\Debug\Rimango.MvvmCross.Plugin.Sqlite.dll
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\obj\Debug\Rimango.MvvmCross.Plugin.Sqlite.pdb
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Rimango.MvvmCross.Plugin.Sqlite.dll
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Rimango.MvvmCross.Plugin.Sqlite.pdb
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Cirrious.CrossCore.dll
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\SQLite.Net.Async.dll
+D:\SchooganizerX\Schooganizer\Plugins\Rimango.MvvmCross.Plugin.Sqlite\Rimango.MvvmCross.Plugin.Sqlite\bin\Debug\SQLite.Net.dll
