@@ -1,0 +1,1 @@
+# Rimango.MvvmCross.Plugin.Sqlite
