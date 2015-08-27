@@ -5,8 +5,11 @@ namespace Rimango.MvvmCross.Plugin.Sqlite
 {
     public interface IMvxSqliteConnectionFactory
     {
-        SQLiteConnectionWithLock GetConnectionWithLock(SQLiteConnectionString connectionString);
-        SQLiteAsyncConnection GetAsyncConnection(SQLiteConnectionString connectionString);
-        SQLiteConnection GetConnection(SQLiteConnectionString connectionString);
+        SQLiteConnectionWithLock GetConnectionWithLock(string databaseName);
+        SQLiteAsyncConnection GetAsyncConnection(string databaseName);
+        SQLiteConnection GetConnection(string databaseName);
+        SQLiteConnectionWithLock GetConnectionWithLock(SqLiteConfig config);
+        SQLiteAsyncConnection GetAsyncConnection(SqLiteConfig config);
+        SQLiteConnection GetConnection(SqLiteConfig config);
     }
 }
