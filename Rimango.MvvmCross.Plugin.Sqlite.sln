@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rimango.MvvmCross.Plugin.Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rimango.MvvmCross.Plugin.Sqlite.WindowsCommon", "Rimango.MvvmCross.Plugin.WindowsCommon\Rimango.MvvmCross.Plugin.Sqlite.WindowsCommon.csproj", "{3A68941C-B8FB-4973-9FFC-B228189506F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rimango.MvvmCross.Plugin.Sqlite.Touch", "Rimango.MvvmCross.Plugin.Sqlite.Touch\Rimango.MvvmCross.Plugin.Sqlite.Touch.csproj", "{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,22 @@ Global
 		{3A68941C-B8FB-4973-9FFC-B228189506F4}.Release|x64.Build.0 = Release|Any CPU
 		{3A68941C-B8FB-4973-9FFC-B228189506F4}.Release|x86.ActiveCfg = Release|Any CPU
 		{3A68941C-B8FB-4973-9FFC-B228189506F4}.Release|x86.Build.0 = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|ARM.Build.0 = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|x64.Build.0 = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Debug|x86.Build.0 = Debug|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|ARM.ActiveCfg = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|ARM.Build.0 = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|x64.ActiveCfg = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|x64.Build.0 = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{423C08FA-D6F4-4327-B6EA-B1C1DB28FEDD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
