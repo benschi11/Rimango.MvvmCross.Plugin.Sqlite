@@ -9,8 +9,7 @@ namespace Rimango.MvvmCross.Plugin.Sqlite
             string databaseName, 
             bool storeDateTimeAsTicks = true,
             IBlobSerializer serializer = null,
-            IContractResolver resolver = null,
-            SQLiteOpenFlags? openFlags = null)
+            IContractResolver resolver = null)
         {
             DatabaseName = databaseName;
             StoreDateTimeAsTicks = storeDateTimeAsTicks;
